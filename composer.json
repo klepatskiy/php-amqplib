@@ -28,11 +28,17 @@
             "role": "Maintainer"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/klepatskiy/phpseclib"
+        }
+    ],
     "require": {
         "php": ">=7.0",
         "ext-sockets": "*",
         "ext-mbstring": "*",
-        "phpseclib/phpseclib": "^2.0|^3.0"
+        "klepatskiy/phpseclib": "^2.0|^3.0"
     },
     "require-dev": {
         "ext-curl": "*",
