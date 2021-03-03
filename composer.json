@@ -38,7 +38,7 @@
         "php": ">=7.0",
         "ext-sockets": "*",
         "ext-mbstring": "*",
-        "klepatskiy/phpseclib": "3.0.6"
+        "klepatskiy/phpseclib": "dev-master"
     },
     "require-dev": {
         "ext-curl": "*",
